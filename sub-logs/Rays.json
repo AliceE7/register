@@ -1,0 +1,18 @@
+{
+  "owner": {
+    "username": "Ray",
+    "email": "dis.zx.k@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "ray", 
+       "value": "f70b3469-7164-4a15-9e3f-981cf4ba343b.id.repl.co"
+     },
+    "TXT": {
+    "value": "replit-verify=f70b3469-7164-4a15-9e3f-981cf4ba343b"
+    }
+  },
+
+  "proxied": true
+}
